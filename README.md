@@ -1,4 +1,4 @@
-## Info
+## INFO:
 
 ### [_`Кафедра`_](./Department/README.md)
 
