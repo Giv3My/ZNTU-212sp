@@ -4,6 +4,8 @@
 
 ### [_`Розклад`_](./Schedule/README.md)
 
+### [_`Консультації`_](https://docs.google.com/spreadsheets/d/1Zbdt8YxckELgBRg4ZEl3KXyXlsLylGFzjZiGt4sOdi4/edit#gid=0)
+
 ### [_`Групи 1 курсу`_](./Group%20list/README.md)
 
 ### [_`Бібліотека університету`_](http://library.zp.edu.ua)
