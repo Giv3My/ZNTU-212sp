@@ -19,6 +19,7 @@
 > ### [_`Гугл-диск навчально-методичних матеріалів кафедри`_](https://drive.google.com/drive/folders/0B47Dmpw7L0AxLVpxeW1iTWV0em8?resourcekey=0-72VVaDFnOQTxqWFOXI-OpQ&usp=sharing)
 >
 > ### [_`Перелік посилань на дистанційні заняття та матеріали`_](https://docs.google.com/spreadsheets/d/135WSkPNYET0WUZ32TYFL9MkVmW-Yoock/edit?usp=sharing&ouid=107573527982404859363&rtpof=true&sd=true)
+> ### [_`Консультації`_](https://docs.google.com/spreadsheets/d/1Zbdt8YxckELgBRg4ZEl3KXyXlsLylGFzjZiGt4sOdi4/edit#gid=0)
 
 ## Деканат:
 
